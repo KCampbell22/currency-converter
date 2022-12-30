@@ -1,0 +1,23 @@
+.converter{
+    max-height: 900px;
+    min-height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+label{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 1rem 10px;
+    width: 50%;
+}
+
+
+.swap{
+    background-color: transparent;
+    border: none;
+    display: block;
+}

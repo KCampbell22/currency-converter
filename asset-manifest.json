@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/currency-converter/static/css/main.d7becff6.css",
-    "main.js": "/currency-converter/static/js/main.9f2cede5.js",
+    "main.css": "/currency-converter/static/css/main.600043c7.css",
+    "main.js": "/currency-converter/static/js/main.5900a085.js",
     "static/js/787.ff407bae.chunk.js": "/currency-converter/static/js/787.ff407bae.chunk.js",
     "static/media/SL_042620_30310_19.jpg": "/currency-converter/static/media/SL_042620_30310_19.b70524e0fd5e26809241.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/currency-converter/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/currency-converter/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/currency-converter/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
     "static/media/fontawesome-webfont.eot": "/currency-converter/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/currency-converter/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/currency-converter/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/currency-converter/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/currency-converter/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/currency-converter/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/currency-converter/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/fa-regular-400.woff2": "/currency-converter/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/currency-converter/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/currency-converter/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "static/media/swap.svg": "/currency-converter/static/media/swap.cabd27c688707954f51f8fe1195d1c03.svg",
     "index.html": "/currency-converter/index.html",
-    "main.d7becff6.css.map": "/currency-converter/static/css/main.d7becff6.css.map",
-    "main.9f2cede5.js.map": "/currency-converter/static/js/main.9f2cede5.js.map",
+    "main.600043c7.css.map": "/currency-converter/static/css/main.600043c7.css.map",
+    "main.5900a085.js.map": "/currency-converter/static/js/main.5900a085.js.map",
     "787.ff407bae.chunk.js.map": "/currency-converter/static/js/787.ff407bae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7becff6.css",
-    "static/js/main.9f2cede5.js"
+    "static/css/main.600043c7.css",
+    "static/js/main.5900a085.js"
   ]
 }
